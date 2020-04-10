@@ -1,0 +1,25 @@
+table
+{
+    text-align: center;
+    background-color: greenyellow;
+    color: black;
+    border: 5px solid black;
+}
+th
+{
+    background-color: orangered;
+    color: black;
+    border: 5px solid black;
+}
+tr
+{
+    
+    color: black;
+    border: 5px solid red;
+    
+}
+td{
+
+
+border: 5px solid black;
+}

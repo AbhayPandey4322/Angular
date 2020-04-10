@@ -1,0 +1,35 @@
+﻿<Properties StartupConfiguration="{703644B1-E526-4A0C-BDF9-653253991917}|Default">
+  <MonoDevelop.Ide.ItemProperties.api__angular__1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="api_angular_1/Controllers/customerController.cs">
+    <Files>
+      <File FileName="api_angular_1/Startup.cs" Line="39" Column="38" />
+      <File FileName="api_angular_1/Models/customers.cs" Line="8" Column="13" />
+      <File FileName="api_angular_1/Models/appDbContext.cs" Line="12" Column="1" />
+      <File FileName="api_angular_1/Controllers/valuesController.cs" Line="33" Column="10" />
+      <File FileName="api_angular_1/Controllers/customerController.cs" Line="16" Column="35" />
+      <File FileName="api_angular_1/Controllers/WeatherForecastController.cs" Line="19" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="api_angular_1" expanded="True">
+            <Node name="api_angular_1" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="customerController.cs" selected="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
